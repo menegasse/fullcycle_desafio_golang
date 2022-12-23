@@ -26,13 +26,13 @@
 ### A partir do Dockerfile:
 
 ```bash
-docker build -t menegasse/fulcycle .
+docker build -t menegasse/fullcycle .
 ```
 
 ### Baixando do [DockerHub](https://hub.docker.com/repository/docker/menegasse/fullcycle):
 
 ```bash
-docker pull menegasse/fulcycle
+docker pull menegasse/fullcycle
 ```
 
 # Criando o Container
@@ -40,7 +40,7 @@ docker pull menegasse/fulcycle
 O seguinte comando serve para criar o container:
 
 ```bash
-docker run menegasse/fulcycle
+docker run menegasse/fullcycle
 ```
 
 Após rodar o comando de criação do container deve aparecer a seguinte mensagem no terminal:
